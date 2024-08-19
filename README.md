@@ -12,7 +12,8 @@ then a chrome window will open and direct to the website you choose. as you can 
 ![cookie_worked](https://github.com/user-attachments/assets/324bb831-a220-4a9b-9f83-aaf32ee2d343)
 
 # Preloaded Cookies Example:
-![preloaded_cookies](https://github.com/user-attachments/assets/680080a0-e4dc-4ad3-9ad8-85d4cd070788)
+![nnnnnn](https://github.com/user-attachments/assets/a451efa4-ab9a-46ad-a81c-a24396f1bcf1)
+
 
 ## To create Preloaded cookies:
 1) Inside the folder 'entities' , create new folder with the name of the person
