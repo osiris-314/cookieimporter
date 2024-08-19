@@ -110,7 +110,9 @@ def main():
             user_choice = int(input('Select user number: ')) - 1
             if 0 <= user_choice < len(user_names):
                 user_name = user_names[user_choice]
+                print('\n')
             else:
+                print('\n')
                 print(Fore.RED + 'Invalid user choice!' + Fore.WHITE)
                 sys.exit(1)
 
