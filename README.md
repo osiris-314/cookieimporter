@@ -2,7 +2,7 @@
 
 # !!! DISCLAIMER !!!
 
-This script if for educational purposes only, as this is illegal to perform without consent from the owner of the account you are trying to test. Use it at your own risk. Only test accounts that you have permision to test.
+This script is for educational purposes only, as this is illegal to perform without consent from the owner of the account you are trying to test. Use it at your own risk. Only test accounts that you have permision to test.
 
 # Custom Cookies Example:
 ![cookie](https://github.com/user-attachments/assets/a165de67-9eee-4ab6-b052-1655d9f0889d)
