@@ -18,7 +18,7 @@ then a chrome window will open and direct to the website you choose. as you can 
 ## To create Preloaded cookies:
 1) Inside the folder 'entities' , create new folder with the name of the person
 2) Inside the newly created folder create folder called 'cookies'
-3) Inside folder 'cookies' create .txt file with the name of the website the cookies belogn to. eg. facebook.txt
+3) Inside folder 'cookies' create .txt file with the name of the website the cookies belong to. eg. facebook.txt
 4) Inside that file you have to add the url and the cookies.
    
    url=https://wwww.facebook.com
@@ -30,7 +30,7 @@ then a chrome window will open and direct to the website you choose. as you can 
 5) replace 'xs_value_here' and 'c_user_value_here' with the correct cookie values
 
 ## After creating the user:
-The use will be now available in the available users menu and the option facebook will be available to you.
+The user is now available in the available users menu and the option facebook will be available to you.
 
 
 # Keep in mind diferent websites use diferent cookies:
