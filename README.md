@@ -5,7 +5,7 @@
 This script is for educational purposes only, as this is illegal to perform without consent from the owner of the account you are trying to test. Use it at your own risk. Only test accounts that you have permision to test.
 #
 ```
-python cookieimporter.py
+python cookie_importer.py
 ```
 
 # Custom Cookies Example:
