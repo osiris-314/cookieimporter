@@ -11,7 +11,7 @@ python cookie_importer.py
 # Custom Cookies Example:
 ![cookie](https://github.com/user-attachments/assets/a165de67-9eee-4ab6-b052-1655d9f0889d)
 
-then a chrome window will open and direct to the website you choose. as you can see the session is active and we are logged in to the acoount using the cookies provided
+Then a chrome window will open and direct to the website you choose. As you can see the session is active and we are logged in to the acoount using the cookies provided
 
 ![cookie_worked](https://github.com/user-attachments/assets/324bb831-a220-4a9b-9f83-aaf32ee2d343)
 
@@ -31,7 +31,7 @@ then a chrome window will open and direct to the website you choose. as you can 
    
    c_user=c_user_value_here
 
-5) replace 'xs_value_here' and 'c_user_value_here' with the correct cookie values
+5) Replace 'xs_value_here' and 'c_user_value_here' with the correct cookie values
 
 ## After creating the user:
 The user is now available in the available users menu and the option facebook will be available to you.
